@@ -1,2 +1,2 @@
 Arham = 99
-print(Arham)
+print("Arham's jersey number is", Arham)
